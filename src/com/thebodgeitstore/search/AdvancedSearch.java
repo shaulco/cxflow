@@ -2,8 +2,6 @@ package com.thebodgeitstore.search;
 
 //Author: Doug Logan
 //Website: https://www.CyberNinjas.com
-//stamjkhaskjhskjhashja
-ljhfjhdgf
 
 
 import com.thebodgeitstore.util.AES;

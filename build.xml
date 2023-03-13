@@ -1,4 +1,6 @@
 <project basedir="." default="compile">
+	lalalalalala
+	llalallala
 
 	<!-- This file contains all of the environment specific configuration, change it for your setup -->
     <property file="local.properties"/>

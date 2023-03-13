@@ -1,6 +1,6 @@
 <project basedir="." default="compile">
 	lalalalalala
-	llalallala
+	llalallalaalhsakhska	sh	sh	sh
 
 	<!-- This file contains all of the environment specific configuration, change it for your setup -->
     <property file="local.properties"/>
